@@ -116,7 +116,7 @@ This project stands on the shoulders of:
 
 ## About the author
 
-**Eleandro Ferronatto de Souza** is a mechanical and mechatronic engineer trained at the University of São Paulo (USP) with an MBA in Strategic and Economic Business Management from Fundação Getúlio Vargas (FGV). He has served as a court-appointed expert witness (*perito judicial federal*) for Brazilian Federal Courts on patent infringement cases involving mechanical inventions and utility models. Previously, he founded and led an electronic energy meter manufacturer acquired by the Wasion Group in 2019, and served as Head of Product at a Brazilian fintech startup. He is a Brazilian and Italian citizen.
+**Eleandro Ferronatto de Souza** is a mechatronic engineer trained at the University of São Paulo (USP) with an MBA in Strategic and Economic Business Management from Fundação Getúlio Vargas (FGV). He has served as a court-appointed expert witness (*perito judicial federal*) for Brazilian Federal Courts on patent infringement cases involving mechanical inventions and utility models. Previously, he founded and led an electronic energy meter manufacturer acquired by the chinese company Wasion Group in 2019, and served as Head of Product at a Brazilian fintech startup. He is a Brazilian and Italian citizen.
 
 LinkedIn: [linkedin.com/in/eleandroferronatto](https://www.linkedin.com/in/eleandroferronatto/)
 
